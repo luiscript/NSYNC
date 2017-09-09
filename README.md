@@ -1,10 +1,9 @@
 ### NSYNC
 
-If you think this is related with a Boy Band, ~~fuck off~~ ¡Bye! ¡Bye! ¡Bye!
+Basic examples that will teach you how to sync animations created with Processing and openframeworks.
 
-This is a repository containing basic examples that will teach you how to sync animations created with tools like processing.
-
-Processing example is synced with MIDI clock.
+Processing example synced with MIDI clock.
+Openframeworks example synced with Ableton Link.
 
 ### Autor  
 Luis Fernando García
