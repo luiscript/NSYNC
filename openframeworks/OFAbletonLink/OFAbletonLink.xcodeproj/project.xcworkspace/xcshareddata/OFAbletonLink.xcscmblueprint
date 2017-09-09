@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "319EF1E07C39605E301C42B5D719D22BD2AFC281",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4CABC9F56931E35D583DACB1F597365DDC03C2EA" : 9223372036854775807,
+    "319EF1E07C39605E301C42B5D719D22BD2AFC281" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E62AFFE7-D85A-48D3-92F7-D269127B0AD2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4CABC9F56931E35D583DACB1F597365DDC03C2EA" : "..\/OF\/of_v0.9.8_osx_release\/addons\/ofxAbletonLink",
+    "319EF1E07C39605E301C42B5D719D22BD2AFC281" : "NSYNC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OFAbletonLink",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "openframeworks\/OFAbletonLink\/OFAbletonLink.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luiscript\/NSYNC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "319EF1E07C39605E301C42B5D719D22BD2AFC281"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/2bbb\/ofxAbletonLink.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4CABC9F56931E35D583DACB1F597365DDC03C2EA"
+    }
+  ]
+}
